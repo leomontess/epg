@@ -1,0 +1,1931 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Prime Box Brazil">
+    <display-name lang="pt">Prime Box Brazil</display-name>
+    <icon src="http://tvplus.com.br/images/logos/BQ7.png" />
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="Shoptime">
+    <display-name lang="pt">Shoptime</display-name>
+    <icon src="http://tvplus.com.br/images/logos/SHO.png" />
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="Tlc.br">
+    <display-name lang="pt">TLC</display-name>
+    <icon src="http://tvplus.com.br/images/logos/TRV.png" />
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="Travel Box Brazil">
+    <display-name lang="pt">Travel Box Brazil</display-name>
+    <icon src="http://tvplus.com.br/images/logos/TRB.png" />
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="Trutv.br">
+    <display-name lang="pt">truTV</display-name>
+    <icon src="http://tvplus.com.br/images/logos/TRU.png" />
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="viva.br">
+    <display-name lang="pt">Viva</display-name>
+    <icon src="http://tvplus.com.br/images/logos/VIV.png" />
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <programme start="20190914000000 -0300" stop="20190914020000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Cara Ou Coroa Cara Ou Coroa</title>
+    <desc lang="pt">São Paulo, inverno de 1971. João Pedro (Emílio de Mello) é um diretor de teatro que está bastante atarefado com os ensaios para uma nova peça.(n)</desc>
+    <credits>
+      <director>Ugo Giorgetti</director>
+      <actor>Emilio de Mello</actor>
+      <actor>Julia Ianina</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20190914020000 -0300" stop="20190914030000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Cineastas</title>
+    <desc lang="pt">O cinema-guerrilha de Lúcia Murat, que realizou seus filmes inspirada em sua própria vida como militante.(n)</desc>
+    <credits>
+      <director>Lúcia Murat</director>
+      <actor>Hermes Leal. O cinema-guerrilha de Lúcia Murat</actor>
+      <actor>que realizou seus filmes inspirada em sua própria vida como militante</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20190914030000 -0300" stop="20190914041800 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Prime.doc: Porto Alegre</title>
+    <desc lang="pt">Ficção e documentário se misturam em uma emocionante história. Nasce uma Porto Alegre inédita, jamais vista através de imagens aéreas, filmes e fotos.(n)</desc>
+    <credits>
+      <director>Jaime Lerner e Cícero Aragon</director>
+      <actor>Jorge Alves. Ficção e documentário se misturam em uma emocionante história. Nasce uma Porto Alegre inédita</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20190914041800 -0300" stop="20190914043000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Menteação</title>
+    <desc lang="pt">O amor está nas pequenas coisas. Pedro conta como desde pequeno ele aprendeu o que é o amor, enquanto Lacrey, Pedro Terceiro e Ursão se emocionam com sua história.(n)</desc>
+    <credits>
+      <director>Pedro Milward</director>
+      <actor>Pedro Milward. O amor está nas pequenas coisas. Pedro conta como desde pequeno ele aprendeu o que é o amor</actor>
+      <actor>enquanto Lacrey, Pedro Terceiro e Ursão se emocionam com sua história</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Comédia</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20190914043000 -0300" stop="20190914055100 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Jogo de Xadrez Jogo de Xadrez</title>
+    <desc lang="pt">Uma mulher presa por fraude na Previdência Social precisa se defender das outras detentas e do diretor da penitenciária.(n)</desc>
+    <credits>
+      <director>Luis Antonio Pereira</director>
+      <actor>Antonio Calloni</actor>
+      <actor>Tuca Andrada</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20190914055100 -0300" stop="20190914062100 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Radialistas</title>
+    <desc lang="pt">Série de entrevistas traçando a Linha do Tempo do Radialismo do Maranhão.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20190914062100 -0300" stop="20190914064500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Morte Cega Morte Cega</title>
+    <desc lang="pt">Francis é um cineasta que, certa noite, tem um sonho com o comediante cego Geraldo Magela. Ele decide realizar um curta a partir deste sonho.(n)</desc>
+    <credits>
+      <director>Pablo Villaça</director>
+      <actor>Carlos Magno Ribeiro</actor>
+      <actor>Geraldo Magela</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20190914064500 -0300" stop="20190914075800 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Prime.Doc: Moradas e Memórias Moradas e Memórias</title>
+    <desc lang="pt">De Joaquim Haickel. O documentário "Moradas &amp; Memórias" é um convite para conhecermos a cidade de São Luís do Maranhão, através de seus belos casarões seculares.(n)</desc>
+    <credits>
+      <director>Joaquim Haickel</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20190914075800 -0300" stop="20190914081400 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Radialistas</title>
+    <desc lang="pt">Entrevista com Parafuso. Este foi o responsável pela sonoplastia dos programas da Rádio Difusora do Maranhão durante quarenta anos. É a memória viva do rádio maranhense.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20190914081400 -0300" stop="20190914083000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Final da Linha Final da Linha</title>
+    <desc lang="pt">Lílian passou no vestibular, porém sua faculdade é em outra cidade. Para chegar ao seu destino, ela se submete à rotina de pegar o ônibus e o trem.(n)</desc>
+    <credits>
+      <director>Daniel Christofoli</director>
+      <actor>Lesiane Morahto</actor>
+      <actor>Thainá Gallo</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20190914083000 -0300" stop="20190914090000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Alce e Alice</title>
+    <desc lang="pt">Piola contrata o premiado cineasta Jorge Furtado para dirigir um episódio da série. A disputa de William e Stive culmina em uma briga violenta.(n)</desc>
+    <credits>
+      <director>Diego Barrios</director>
+      <actor>Thiago Prade</actor>
+      <actor>Kaya Rodrigues</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Ficção</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20190914090000 -0300" stop="20190914093000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Taxitramas</title>
+    <desc lang="pt">Alberto não pagava o financiamento e Clara pode perder a casa, Mauro sente culpa. Edú confessa: "eu peguei a goiabada! Está no porta-luvas".(n)</desc>
+    <credits>
+      <director>Pena Cabreira</director>
+      <actor>Adriano Basegio</actor>
+      <actor>Cassiano Ranzolin</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Comédia</category>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20190914093000 -0300" stop="20190914100000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Velhas Amigas</title>
+    <desc lang="pt">Lurdinha, Violeta e Maria Antônia são surpreendidas com uma reviravolta que trará mudanças na vida de cada uma delas.(n)</desc>
+    <credits>
+      <director>Beto Ribeiro</director>
+      <actor>Carolina Marafiga</actor>
+      <actor>Gabriela Gama</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Comédia</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20190914100000 -0300" stop="20190914113300 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: do Lado de Fora</title>
+    <desc lang="pt">DO LADO DE FORA é uma comédia sobre jovens que fazem um pacto para saírem do armário. É a primeira vez que vão na Parada LGBT de São Paulo.(n)</desc>
+    <credits>
+      <director>Alexandre Carvalho</director>
+      <actor>Marcello Airoldi</actor>
+      <actor>André Bankoff</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20190914113300 -0300" stop="20190914114200 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Menteação</title>
+    <desc lang="pt">Num dia de aula como qualquer outro, Pedro conheceu uma garota que o deixa desnorteado.(n)</desc>
+    <credits>
+      <director>Pedro Milward</director>
+      <actor>Pedro Milward. Num dia de aula como qualquer outro</actor>
+      <actor>Pedro conheceu uma garota que o deixa desnorteado</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Comédia</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20190914114200 -0300" stop="20190914120000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Luna 13 Luna 13</title>
+    <desc lang="pt">Após a morte de seu avô, Igor decide fazer um documentário na tentativa de entender porque o seu avô era obcecado por fatos estranhos.(n)</desc>
+    <credits>
+      <director>Filipe Nunes de Barros</director>
+      <actor>Rodrigo Waschburger</actor>
+      <actor>Marcelo Naz</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20190914120000 -0300" stop="20190914123000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Cinema em Transe</title>
+    <desc lang="pt">De Hermes Leal. As expectativas dos diretores iniciantes que, pela primeira vez, realizam um longa-metragem de ficção.(n)</desc>
+    <credits>
+      <director>Hermes Leal</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20190914123000 -0300" stop="20190914133000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Investigação Criminal</title>
+    <desc lang="pt">De Beto Ribeiro. João Victor dos Santos Rodrigues, de 13 anos, e seu irmão Igor, de 12, têm partes de seus corpos encontrados em um caminhão de lixo.(n)</desc>
+    <credits>
+      <director>Beto Ribeiro</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20190914133000 -0300" stop="20190914140000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Na Rede.br</title>
+    <desc lang="pt">De Felipe Bentivegna. É possível dizer que a geração nascida no séc. XXI já não sabe como é viver em um mundo sem internet.(n)</desc>
+    <credits>
+      <director>Felipe Bentivegna</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20190914140000 -0300" stop="20190914143000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Geekland</title>
+    <desc lang="pt">De Beto Ribeiro. Mergulhe no universo de Star Trek e Star Wars através de seus fãs.(n)</desc>
+    <credits>
+      <director>Beto Ribeiro</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cultural</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20190914143000 -0300" stop="20190914150000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Anatomia do Crime</title>
+    <desc lang="pt">Jimmy Richard Iribarne, de 42 anos, foi o responsável pela morte de sua namorada, Magda Roncati. Conheça detalhes da mente perversa do assassino.(n)</desc>
+    <credits>
+      <director>Beto Ribeiro</director>
+      <actor>Carlos de Faria</actor>
+      <actor>Christian Costa</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Documentário</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000465528_epg.jpg" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20190914150000 -0300" stop="20190914184500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">1001 Noites</title>
+    <desc lang="pt">Programa de venda de jóias.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Televendas</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000074599_epg.jpg" />
+  </programme>
+  <programme start="20190914184500 -0300" stop="20190914200000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Prime.doc: Caxias do Sul</title>
+    <desc lang="pt">De Airton Soares. O documentário conta como surgiu, como se desenvolveu, os fatos mais importantes, as figuras proeminentes, que formaram a Caxias de hoje.(n)</desc>
+    <credits>
+      <director>Airton Soares</director>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Documentário</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000068506_epg.jpg" />
+  </programme>
+  <programme start="20190914200000 -0300" stop="20190914204700 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Investigação Criminal</title>
+    <desc lang="pt">Em 2011, um Serial Killer aterrorizava a cidade de Itaquaquecetuba, na grande  São Paulo. Suas vítimas: homens de 20 a 50 anos.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Investigação</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20190914204700 -0300" stop="20190914210300 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: A História Deles</title>
+    <desc lang="pt">Curtas-metragens dramáticos,românticos ou hilários. Qual você prefere? O curta in box tem todos e aqui eles são a atração principal.(n)</desc>
+    <credits>
+      <director>Denise Sganzerla</director>
+      <actor>Mitzi Evelyn</actor>
+      <actor>Carolina Taulois</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Romance</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+  </programme>
+  <programme start="20190914210300 -0300" stop="20190914214200 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Chuteira Preta</title>
+    <desc lang="pt">Uma conversa com o pai era o que faltava para Kadu desabar de vez. Ao mesmo tempo, começa uma criminosa conexão entre lavagem de dinheiro e o Pastor.(n)</desc>
+    <credits>
+      <director>Paulo Nascimento</director>
+      <actor>Márcio Kieling</actor>
+      <actor>Nuno Leal Maia</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Drama</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000074576_epg.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20190914214200 -0300" stop="20190914220000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Contrato Com A Sorte</title>
+    <desc lang="pt">Derley ganha a vida participando de concursos culturais e sorteios promocionais.(n)</desc>
+    <credits>
+      <director>André Carreira</director>
+      <actor>Nivaldo Pedrosa</actor>
+      <actor>Izadora Fernandes</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Ficção</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000074600_epg.jpg" />
+  </programme>
+  <programme start="20190914220000 -0300" stop="20190914233900 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Dolores</title>
+    <desc lang="pt">Argentina, durante a Segunda Guerra Mundial. Após ficar muitos anos longe de seu país-natal, Dolores retorna à fazenda da família.(n)</desc>
+    <credits>
+      <director>Juan Dickinson</director>
+      <actor>Emilia Attias</actor>
+      <actor>Guillermo Pfening</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Romance</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000074576_epg.jpg" />
+  </programme>
+  <programme start="20190914000000 -0300" stop="20190914010000 -0300" channel="Shoptime">
+    <title lang="pt">Casa e Conforto</title>
+    <desc lang="pt">Com Fabiana Boal, Babi Marttins. O programa mais tradicional do Shoptime continua a todo vapor. O Casa e Conforto permanece cheio de ofertas que irão deixar seu quarto uma suíte de hotel cinco estrelas.(n)</desc>
+    <credits>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Televendas</category>
+  </programme>
+  <programme start="20190914010000 -0300" stop="20190914020000 -0300" channel="Shoptime">
+    <title lang="pt">Cozinha Criativa Cozinha Criativa</title>
+    <desc lang="pt">Com Flávia Bonato. Programa culinário, apresentado por Flávia Bonato, dedicado ao que há de melhor em La Cuisine e Fun Kitchen, com marcas próprias do Shoptime.(n)</desc>
+    <credits>
+      <actor>Flávia Bonato. Programa culinário</actor>
+      <actor>apresentado por Flávia Bonato, dedicado ao que há de melhor em La Cuisine e Fun Kitchen, com marcas próprias do Shoptime</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Televendas</category>
+  </programme>
+  <programme start="20190914020000 -0300" stop="20190914030000 -0300" channel="Shoptime">
+    <title lang="pt">Você Sempre Mais</title>
+    <desc lang="pt">Apresentado por Renata Pitanga, o programa traz desde produtos de beleza, fashion e joias, a acessórios, cosméticos e perfumaria. Tudo para a mulher se sentir ainda mais bonita, moderna, e na moda.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Televendas</category>
+  </programme>
+  <programme start="20190914030000 -0300" stop="20190914040000 -0300" channel="Shoptime">
+    <title lang="pt">Conectados</title>
+    <desc lang="pt">Com Ciro Bottini. Ciro Bottini comanda um dos programas mais tradicionais do Shoptime. Aqui você encontra o que há de mais moderno em smartphones, notebooks, smartTVs e muito mais.(n)</desc>
+    <credits>
+      <actor>Ciro Bottini. Ciro Bottini comanda um dos programas mais tradicionais do Shoptime. Aqui você encontra o que há de mais moderno em smartphones</actor>
+      <actor>notebooks, smartTVs e muito mais</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Televendas</category>
+  </programme>
+  <programme start="20190914040000 -0300" stop="20190914050000 -0300" channel="Shoptime">
+    <title lang="pt">Casa e Conforto</title>
+    <desc lang="pt">Com Fabiana Boal, Babi Marttins. O programa mais tradicional do Shoptime continua a todo vapor. O Casa e Conforto permanece cheio de ofertas que irão deixar seu quarto uma suíte de hotel cinco estrelas.(n)</desc>
+    <credits>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Televendas</category>
+  </programme>
+  <programme start="20190914050000 -0300" stop="20190914060000 -0300" channel="Shoptime">
+    <title lang="pt">Conectados</title>
+    <desc lang="pt">Com Ciro Bottini. Ciro Bottini comanda um dos programas mais tradicionais do Shoptime. Aqui você encontra o que há de mais moderno em smartphones, notebooks, smartTVs e muito mais.(n)</desc>
+    <credits>
+      <actor>Ciro Bottini. Ciro Bottini comanda um dos programas mais tradicionais do Shoptime. Aqui você encontra o que há de mais moderno em smartphones</actor>
+      <actor>notebooks, smartTVs e muito mais</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Televendas</category>
+  </programme>
+  <programme start="20190914060000 -0300" stop="20190914070000 -0300" channel="Shoptime">
+    <title lang="pt">Cozinha Completa</title>
+    <desc lang="pt">Com Adriana Tolentino, Babi Marttins. O Cozinha Completa, apresentado por Adriana Tolentino, traz o que há de mais prime para a cozinha.(n)</desc>
+    <credits>
+      <actor>Adriana Tolentino</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Televendas</category>
+  </programme>
+  <programme start="20190914070000 -0300" stop="20190914080000 -0300" channel="Shoptime">
+    <title lang="pt">Conectados</title>
+    <desc lang="pt">Com Ciro Bottini. Ciro Bottini comanda um dos programas mais tradicionais do Shoptime. Aqui você encontra o que há de mais moderno em smartphones, notebooks, smartTVs e muito mais.(n)</desc>
+    <credits>
+      <actor>Ciro Bottini. Ciro Bottini comanda um dos programas mais tradicionais do Shoptime. Aqui você encontra o que há de mais moderno em smartphones</actor>
+      <actor>notebooks, smartTVs e muito mais</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Televendas</category>
+  </programme>
+  <programme start="20190914080000 -0300" stop="20190914090000 -0300" channel="Shoptime">
+    <title lang="pt">Assim é Fácil</title>
+    <desc lang="pt">Com André Saporetti. O programa mais variado do Shoptime traz para sua casa itens diversos de construção, jardinagem, limpeza e manutenção.(n)</desc>
+    <credits>
+      <actor>André Saporetti. O programa mais variado do Shoptime traz para sua casa itens diversos de construção</actor>
+      <actor>jardinagem, limpeza e manutenção</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Televendas</category>
+  </programme>
+  <programme start="20190914090000 -0300" stop="20190914100000 -0300" channel="Shoptime">
+    <title lang="pt">Casa e Conforto</title>
+    <desc lang="pt">Com Fabiana Boal, Babi Marttins. O programa mais tradicional do Shoptime continua a todo vapor. O Casa e Conforto permanece cheio de ofertas que irão deixar seu quarto uma suíte de hotel cinco estrelas.(n)</desc>
+    <credits>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Televendas</category>
+  </programme>
+  <programme start="20190914100000 -0300" stop="20190914110000 -0300" channel="Shoptime">
+    <title lang="pt">Cozinha Criativa Cozinha Criativa</title>
+    <desc lang="pt">Com Flávia Bonato. Programa culinário, apresentado por Flávia Bonato, dedicado ao que há de melhor em La Cuisine e Fun Kitchen, com marcas próprias do Shoptime.(n)</desc>
+    <credits>
+      <actor>Flávia Bonato. Programa culinário</actor>
+      <actor>apresentado por Flávia Bonato, dedicado ao que há de melhor em La Cuisine e Fun Kitchen, com marcas próprias do Shoptime</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Televendas</category>
+  </programme>
+  <programme start="20190914110000 -0300" stop="20190914120000 -0300" channel="Shoptime">
+    <title lang="pt">Casa e Conforto</title>
+    <desc lang="pt">Com Fabiana Boal, Babi Marttins. O programa mais tradicional do Shoptime continua a todo vapor. O Casa e Conforto permanece cheio de ofertas que irão deixar seu quarto uma suíte de hotel cinco estrelas.(n)</desc>
+    <credits>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Televendas</category>
+  </programme>
+  <programme start="20190914120000 -0300" stop="20190914130000 -0300" channel="Shoptime">
+    <title lang="pt">Cozinha Completa</title>
+    <desc lang="pt">Com Adriana Tolentino, Babi Marttins. O Cozinha Completa, apresentado por Adriana Tolentino, traz o que há de mais prime para a cozinha.(n)</desc>
+    <credits>
+      <actor>Adriana Tolentino</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Televendas</category>
+  </programme>
+  <programme start="20190914130000 -0300" stop="20190914140000 -0300" channel="Shoptime">
+    <title lang="pt">Conectados</title>
+    <desc lang="pt">Com Ciro Bottini. Ciro Bottini comanda um dos programas mais tradicionais do Shoptime. Aqui você encontra o que há de mais moderno em smartphones, notebooks, smartTVs e muito mais.(n)</desc>
+    <credits>
+      <actor>Ciro Bottini. Ciro Bottini comanda um dos programas mais tradicionais do Shoptime. Aqui você encontra o que há de mais moderno em smartphones</actor>
+      <actor>notebooks, smartTVs e muito mais</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Televendas</category>
+  </programme>
+  <programme start="20190914140000 -0300" stop="20190914150000 -0300" channel="Shoptime">
+    <title lang="pt">Bebê</title>
+    <desc lang="pt">Com Fabiana Boal, Babi Martins. O novo programa do Shoptime especialmente pensado para você saber tudo sobre o mundo dos bebês. Convidamos especialista e influencers para tirar todas as suas dúvidas.(n)</desc>
+    <credits>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Martins</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20190914150000 -0300" stop="20190914160000 -0300" channel="Shoptime">
+    <title lang="pt">Casa e Conforto</title>
+    <desc lang="pt">Com Fabiana Boal, Babi Marttins. O programa mais tradicional do Shoptime continua a todo vapor. O Casa e Conforto permanece cheio de ofertas que irão deixar seu quarto uma suíte de hotel cinco estrelas.(n)</desc>
+    <credits>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Televendas</category>
+  </programme>
+  <programme start="20190914160000 -0300" stop="20190914170000 -0300" channel="Shoptime">
+    <title lang="pt">Você Sempre Mais</title>
+    <desc lang="pt">Apresentado por Renata Pitanga, o programa traz desde produtos de beleza, fashion e joias, a acessórios, cosméticos e perfumaria. Tudo para a mulher se sentir ainda mais bonita, moderna, e na moda.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Televendas</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000434467_epg.jpg" />
+  </programme>
+  <programme start="20190914170000 -0300" stop="20190914180000 -0300" channel="Shoptime">
+    <title lang="pt">Cozinha Criativa Cozinha Criativa</title>
+    <desc lang="pt">Com Flávia Bonato. Programa culinário, apresentado por Flávia Bonato, dedicado ao que há de melhor em La Cuisine e Fun Kitchen, com marcas próprias do Shoptime.(n)</desc>
+    <credits>
+      <actor>Flávia Bonato. Programa culinário</actor>
+      <actor>apresentado por Flávia Bonato, dedicado ao que há de melhor em La Cuisine e Fun Kitchen, com marcas próprias do Shoptime</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Televendas</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+  </programme>
+  <programme start="20190914180000 -0300" stop="20190914190000 -0300" channel="Shoptime">
+    <title lang="pt">Bebê</title>
+    <desc lang="pt">Com Fabiana Boal, Babi Martins. O novo programa do Shoptime especialmente pensado para você saber tudo sobre o mundo dos bebês. Convidamos especialista e influencers para tirar todas as suas dúvidas.(n)</desc>
+    <credits>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Martins</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Diversos</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000682643_epg.jpg" />
+  </programme>
+  <programme start="20190914190000 -0300" stop="20190914200000 -0300" channel="Shoptime">
+    <title lang="pt">Conectados</title>
+    <desc lang="pt">Com Ciro Bottini. Ciro Bottini comanda um dos programas mais tradicionais do Shoptime. Aqui você encontra o que há de mais moderno em smartphones, notebooks, smartTVs e muito mais.(n)</desc>
+    <credits>
+      <actor>Ciro Bottini. Ciro Bottini comanda um dos programas mais tradicionais do Shoptime. Aqui você encontra o que há de mais moderno em smartphones</actor>
+      <actor>notebooks, smartTVs e muito mais</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Televendas</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000682641_epg.jpg" />
+  </programme>
+  <programme start="20190914200000 -0300" stop="20190914210000 -0300" channel="Shoptime">
+    <title lang="pt">Casa e Conforto</title>
+    <desc lang="pt">Com Fabiana Boal, Babi Marttins. O programa mais tradicional do Shoptime continua a todo vapor. O Casa e Conforto permanece cheio de ofertas que irão deixar seu quarto uma suíte de hotel cinco estrelas.(n)</desc>
+    <credits>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Televendas</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000682681_epg.jpg" />
+  </programme>
+  <programme start="20190914210000 -0300" stop="20190914213000 -0300" channel="Shoptime">
+    <title lang="pt">Que Bom Que Você Veio</title>
+    <desc lang="pt">Com Flavia Bonato. Receber visitas é tudo de bom, né? Pra você recepcionar seus convidados de um jeito autêntico, Bom Que Você Veio traz receitas incríveis e práticas para te ajudar.(n)</desc>
+    <credits>
+      <actor>Flavia Bonato. Receber visitas é tudo de bom</actor>
+      <actor>né? Pra você recepcionar seus convidados de um jeito autêntico, Bom Que Você Veio traz receitas incríveis e práticas para te ajudar</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Televendas</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000682681_epg.jpg" />
+  </programme>
+  <programme start="20190914213000 -0300" stop="20190914220000 -0300" channel="Shoptime">
+    <title lang="pt">Que Bom Que Você Veio</title>
+    <desc lang="pt">Com Flavia Bonato. Receber visitas é tudo de bom, né? Pra você recepcionar seus convidados de um jeito autêntico, Bom Que Você Veio traz receitas incríveis e práticas para te ajudar.(n)</desc>
+    <credits>
+      <actor>Flavia Bonato. Receber visitas é tudo de bom</actor>
+      <actor>né? Pra você recepcionar seus convidados de um jeito autêntico, Bom Que Você Veio traz receitas incríveis e práticas para te ajudar</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Televendas</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000682644_epg.jpg" />
+  </programme>
+  <programme start="20190914220000 -0300" stop="20190914230000 -0300" channel="Shoptime">
+    <title lang="pt">Cozinha Completa</title>
+    <desc lang="pt">Com Adriana Tolentino, Babi Marttins. O Cozinha Completa, apresentado por Adriana Tolentino, traz o que há de mais prime para a cozinha.(n)</desc>
+    <credits>
+      <actor>Adriana Tolentino</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Televendas</category>
+    <icon src="http://tvplus.com.br/images/epg_224/0000682643_epg.jpg" />
+  </programme>
+  <programme start="20190914001600 -0300" stop="20190914010600 -0300" channel="Tlc.br">
+    <title lang="pt">90 Dias para Casar</title>
+    <desc lang="pt">Comportamento. O espírito livre da colombiana Paola gera tensão entre os amigos conservadores de Russ, de Oklahoma. Louis prepara seus filhos para a chegada de Aya diante do olhar descrente de sua ex-mulher Tonya.(n)</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20190914010600 -0300" stop="20190914015600 -0300" channel="Tlc.br">
+    <title lang="pt">90 Dias para Casar</title>
+    <desc lang="pt">Comportamento. Morar com os pais de Russ é demais para Paola, e os dois se mudam para um apartamento de luxo. Aziza se mostra difícil de agradar quando ela e Mike procuram um local para seu casamento.(n)</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20190914015600 -0300" stop="20190914024700 -0300" channel="Tlc.br">
+    <title lang="pt">A Médium</title>
+    <desc lang="pt">Neste episódio emocionante, Theresa atende pessoas que pedem a bênção dos pais já falecidos para seus relacionamentos.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S6 E21</episode-num>
+  </programme>
+  <programme start="20190914024700 -0300" stop="20190914033900 -0300" channel="Tlc.br">
+    <title lang="pt">Os Pequenos Johnstons</title>
+    <desc lang="pt">Depois de semanas morando em um hotel, os Johnstons finalmente se mudam para a casa nova.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S4 E1</episode-num>
+  </programme>
+  <programme start="20190914033900 -0300" stop="20190914043000 -0300" channel="Tlc.br">
+    <title lang="pt">Os Pequenos Johnstons</title>
+    <desc lang="pt">Trent monta uma colmeia, enquanto Liz precisa lidar com a repercussão negativa de sua separação nas redes sociais.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S4 E2</episode-num>
+  </programme>
+  <programme start="20190914043000 -0300" stop="20190914061000 -0300" channel="Tlc.br">
+    <title lang="pt">4 Mulheres e 1 Marido</title>
+    <desc lang="pt">Mitch e Aspyn anunciam o noivado e começam a procurar o local da cerimônia. A família inteira viaja para Utah para ajudar na inauguração da pousada de Meri.(n)</desc>
+    <credits>
+      <director>Timothy Gibbons</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S8 E3</episode-num>
+  </programme>
+  <programme start="20190914061000 -0300" stop="20190914063400 -0300" channel="Tlc.br">
+    <title lang="pt">Chegou Honey Boo Boo!</title>
+    <desc lang="pt">Depois de não ter muito sucesso com June no quarto, Sugar Bear sugere terapia de casais.(n)</desc>
+    <credits>
+      <director>Brandon Golnick</director>
+      <actor>Alana Thompson</actor>
+      <actor>Mike Thompson</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20190914063400 -0300" stop="20190914072300 -0300" channel="Tlc.br">
+    <title lang="pt">Dra. Sandra Lee: A Rainha Dos Cravos</title>
+    <desc lang="pt">Com Sandra Lee. Bob tem dois cistos enormes nas costas. Art disfarça um nódulo na cabeça com chapéus. O tumor nas costas de Barbara fica mais visível depois que ela perde 60 quilos.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Medicina</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20190914072300 -0300" stop="20190914081200 -0300" channel="Tlc.br">
+    <title lang="pt">Dra. Sandra Lee: A Rainha Dos Cravos</title>
+    <desc lang="pt">Um nódulo enorme no seio de Angelina afeta sua vida amorosa. Delano tem um tumor do tamanho de uma bola de futebol nas costas. Carla espera remover os cistos dolorosos que surgiram em seu couro cabeludo.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Medicina</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20190914081200 -0300" stop="20190914090100 -0300" channel="Tlc.br">
+    <title lang="pt">Os Pequenos Johnstons</title>
+    <desc lang="pt">Liz tenta se recuperar de sua primeira desilusão amorosa montando sua primeira exposição de arte, mas teme que ninguém apareça.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S4 E3</episode-num>
+  </programme>
+  <programme start="20190914090100 -0300" stop="20190914095000 -0300" channel="Tlc.br">
+    <title lang="pt">Os Pequenos Johnstons</title>
+    <desc lang="pt">Quando Jonah se torna o primeiro filho dos Johnstons a se formar no ensino médio, Trent e Amber questionam sua atitude desrespeitosa.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S4 E4</episode-num>
+  </programme>
+  <programme start="20190914095000 -0300" stop="20190914103900 -0300" channel="Tlc.br">
+    <title lang="pt">Os Busbys + 5</title>
+    <desc lang="pt">Adam e Danielle percebem que precisam de uma casa maior, mas se estressam com a procura quando descobrem o alto custo dos imóveis. Danielle tem uma ideia que pode resolver todos os seus problemas.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20190914103900 -0300" stop="20190914112800 -0300" channel="Tlc.br">
+    <title lang="pt">Os Busbys + 5</title>
+    <desc lang="pt">De Adam Busby. Adam e Danielle vivem ocupados com os cuidados das quíntuplas de 15 meses. Quando um médico sugere um procedimento radical para uma das meninas, os Busbys enfrentam uma decisão difícil.(n)</desc>
+    <credits>
+      <director>Adam Busby</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20190914112800 -0300" stop="20190914121700 -0300" channel="Tlc.br">
+    <title lang="pt">Os Busbys + 5</title>
+    <desc lang="pt">De Adam Busby. Os Busbys viajam de carro para Lake Charles para ajudar Mimi com um bazar. Danielle e Adam precisam decidir se submetem Hazel a uma arriscada cirurgia ocular.(n)</desc>
+    <credits>
+      <director>Adam Busby</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20190914121700 -0300" stop="20190914130600 -0300" channel="Tlc.br">
+    <title lang="pt">Os Busbys + 5</title>
+    <desc lang="pt">De Adam Busby. Quando Hazel é submetida a cirurgia ocular, Adam e Danielle esperam ansiosamente para descobrir se o procedimento foi bem-sucedido.(n)</desc>
+    <credits>
+      <director>Adam Busby</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20190914130600 -0300" stop="20190914135500 -0300" channel="Tlc.br">
+    <title lang="pt">Avós de Primeira Viagem</title>
+    <desc lang="pt">Lexus conta à mãe, Kelsey, que voltou a se relacionar com Shayden. Mckayla diz a Caelan que ele precisa ser um pai mais presente. Laura, de 17 anos, está a poucos dias do parto induzido.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20190914135500 -0300" stop="20190914144400 -0300" channel="Tlc.br">
+    <title lang="pt">Avós de Primeira Viagem</title>
+    <desc lang="pt">Tim e Cindy veem a casa nova de Shannon e não a aprovam. Chloe vai à nova escola para adolescentes grávidas. A indução do parto de Laura coincide com o aniversário de sua irmã.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20190914144400 -0300" stop="20190914162200 -0300" channel="Tlc.br">
+    <title lang="pt">90 Dias Para Casar: Felizes Para Sempre?</title>
+    <desc lang="pt">Reality Show. Anfisa expulsa Jorge de casa. Loren recebe uma notícia que deixa Alex arrasado. Danielle tenta se aproximar das filhas. Mohamed procura um novo amor. O passado de Pao a persegue em Miami.(n)</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000084611_epg.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20190914162200 -0300" stop="20190914180000 -0300" channel="Tlc.br">
+    <title lang="pt">90 Dias Para Casar: Felizes Para Sempre?</title>
+    <desc lang="pt">Reality Show. Russ e Pao tentam se reconciliar. A mãe de Alex recebe uma má notícia. Chantel descobre que Pedro esconde segredos. Danielle visita um advogado e aumenta a pressão sobre Mohamed.(n)</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000076788_epg.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20190914180000 -0300" stop="20190914185000 -0300" channel="Tlc.br">
+    <title lang="pt">Uma Mulher de Peso</title>
+    <desc lang="pt">De Mike Kane. Whitney e Buddy questionam seu relacionamento quando voltam do Alasca. Enquanto um grande furacão se aproxima, Babs se submete a uma cirurgia ocular.(n)</desc>
+    <credits>
+      <director>Mike Kane</director>
+      <actor>Babs se submete a uma cirurgia ocular</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Comportamento</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000076788_epg.jpg" />
+    <episode-num system="onscreen">S5 E11</episode-num>
+  </programme>
+  <programme start="20190914185000 -0300" stop="20190914194000 -0300" channel="Tlc.br">
+    <title lang="pt">Uma Mulher de Peso</title>
+    <desc lang="pt">De Mike Kane. Whitney dá três aulas de dança no maior evento de sua carreira em Nova York. Ela se surpreende quando Buddy decide se mudar para Washington para se tornar comediante.(n)</desc>
+    <credits>
+      <director>Mike Kane</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Comportamento</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000087316000_epg.jpg" />
+    <episode-num system="onscreen">S5 E12</episode-num>
+  </programme>
+  <programme start="20190914194000 -0300" stop="20190914203000 -0300" channel="Tlc.br">
+    <title lang="pt">Dra. Sandra Lee: A Rainha Dos Cravos</title>
+    <desc lang="pt">O cisto no pescoço de Belinda não permite que ela se mova. Nicole não quer se casar até extrair um cisto na axila. Nick removeu um lipoma em casa e agora precisa da ajuda do Dr. Lee.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Medicina</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000087316000_epg.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20190914203000 -0300" stop="20190914212000 -0300" channel="Tlc.br">
+    <title lang="pt">Dra. Sandra Lee: A Rainha Dos Cravos</title>
+    <desc lang="pt">Diane tem inúmeros tumores pelo corpo todo. Will teme que um cisto no ombro se rompa enquanto ele estiver no trabalho. A filha de Anthony o obriga a ir ao médico para examinar um cisto.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Medicina</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000079201_epg.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20190914212000 -0300" stop="20190914221000 -0300" channel="Tlc.br">
+    <title lang="pt">Emagreci, E Agora?</title>
+    <desc lang="pt">Comportamento. Kylie fez uma cirurgia e conseguiu perder 68 quilos, mas agora está coberta por excesso de pele. Anna emagreceu 113 quilos, mas teme que a pele flácida a faça parecer pouco profissional.(n)</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000079201_epg.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20190914221000 -0300" stop="20190914230000 -0300" channel="Tlc.br">
+    <title lang="pt">Emagreci, E Agora?</title>
+    <desc lang="pt">Comportamento. Depois de perder 100 quilos, Sarah agora lida com as dores do excesso de pele. Roger conseguiu vencer a obesidade, continua com movimentos restritos mesmo depois de perder 135 quilos.(n)</desc>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000084907_epg.jpg" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20190914230000 -0300" stop="20190914235000 -0300" channel="Tlc.br">
+    <title lang="pt">Cirurgiões Ao Resgate</title>
+    <desc lang="pt">Neste episódio, os cirurgiões corrigem implantes mamários, reparam o rosto de uma mulher que injetou silicone com uma esteticista e reconstroem um nariz deformado durante uma cirurgia plástica.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Documentário</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000084907_epg.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20190914000000 -0300" stop="20190914003000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Sonho Americano</title>
+    <desc lang="pt">De Paulo Eduardo Machado Nascimento. Os viajantes motociclistas partem de NY e chegam a Newark, onde um brasileiro vai mostrar que é possível se sentir no Brasil em todos os sentidos.(n)</desc>
+    <credits>
+      <director>Paulo Eduardo Machado Nascimento</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20190914003000 -0300" stop="20190914010000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Estradas do Mundo</title>
+    <desc lang="pt">De Fernando Nienkotter. A Expedição Caminhos do Alaska chega ao Peru. Fernando Nienkotter, Daltro e Miguel aproveitam os encantos e os desafios de um dos países mais emblemáticos da América do Sul.(n)</desc>
+    <credits>
+      <director>Fernando Nienkotter</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Diversos</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20190914010000 -0300" stop="20190914013000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Mobylas</title>
+    <desc lang="pt">De Rafael Godoi C. Da Costa. MOBY CROSS: Taboca organiza um rali e todos turbinam suas mobiletes para competir. Surpreendentemente, quem ganha um trato vip na mobi é Sabugo, o eterno novato.(n)</desc>
+    <credits>
+      <director>Rafael Godoi C</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20190914013000 -0300" stop="20190914020000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Momento Music Box Brazil</title>
+    <desc lang="pt">De Gustavo Fumagalli Mantovani. A Fresno estava concorrendo à categoria Worldwide Act do MTV Europe Music Awards 2013 e vai a Amsterdam para participar da cerimônia de premiação.(n)</desc>
+    <credits>
+      <director>Gustavo Fumagalli Mantovani</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20190914020000 -0300" stop="20190914023000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Partiu Aventura</title>
+    <credits>
+      <director>Juliana Meira Amaral</director>
+      <actor>os seis amigos continuam com todo gás para encarar os desafios, seja na terra, no ar ou no mar</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Viagem</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20190914023000 -0300" stop="20190914030000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Destino Br Empreendedor</title>
+    <desc lang="pt">De Rafa Calil. A apenas 136km de Porto Alegre, atravessando o Vale dos Vinhedos, está Monte Belo do Sul. Nessa cidade de menos de 3000 habitantes, reside uma forte tradição vinícola.(n)</desc>
+    <credits>
+      <director>Rafa Calil</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20190914030000 -0300" stop="20190914033000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Mobylas</title>
+    <desc lang="pt">De Rafael Godoi C. Da Costa. MOBY CROSS: Taboca organiza um rali e todos turbinam suas mobiletes para competir. Surpreendentemente, quem ganha um trato vip na mobi é Sabugo, o eterno novato.(n)</desc>
+    <credits>
+      <director>Rafael Godoi C</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20190914033000 -0300" stop="20190914040000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Profundo Scuba Diving</title>
+    <desc lang="pt">De Idiaulo Yuri Sanada. Bali Zen Dive Resort: A partir do Zen Resort visitamos o naufrágio Liberty, um dos melhores mergulhos de Bali.(n)</desc>
+    <credits>
+      <director>Idiaulo Yuri Sanada</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S3 E11</episode-num>
+  </programme>
+  <programme start="20190914040000 -0300" stop="20190914043000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Destino Incomum</title>
+    <desc lang="pt">De Ricardo Maluf Gardolinski. No episódio de encerramento desta temporada do programa, visitaremos a Cidade do Cabo. Segunda maior metrópole da África do Sul.(n)</desc>
+    <credits>
+      <director>Ricardo Maluf Gardolinski</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Aventura</category>
+    <episode-num system="onscreen">S4 E10</episode-num>
+  </programme>
+  <programme start="20190914043000 -0300" stop="20190914044000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">As Laranjinhas Mundo Afora</title>
+    <desc lang="pt">Viagem. De Marcio Cimatti. O programa compartilha a experiência real de viagem com 2 crianças: as Laranjinhas, Vitória e Giovana, de 8 e 5 anos.(n)</desc>
+    <credits>
+      <director>Marcio Cimatti</director>
+    </credits>
+  </programme>
+  <programme start="20190914044000 -0300" stop="20190914050000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Ilex, A Busca Pelo Sabor</title>
+    <desc lang="pt">De Gabriel Amabile Horn. A sustentabilidade da Erva-mate: a erva-mate tem a natureza como aliada no seu desenvolvimento. O cultivo é sustentável e seu processo garante o consumo num estado natural.(n)</desc>
+    <credits>
+      <director>Gabriel Amabile Horn</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20190914050000 -0300" stop="20190914060000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Travel.doc</title>
+    <desc lang="pt">Diversos. A faixa do Travel Box Brazil dedicada aos melhores documentários nacionais.(n)</desc>
+  </programme>
+  <programme start="20190914060000 -0300" stop="20190914063000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Descobrindo Trilhas</title>
+    <desc lang="pt">Documentário. O casal de fotógrafos André e Paula abandonam a vida urbana para se dedicar ao registro na natureza e trilhas off road!(n)</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20190914063000 -0300" stop="20190914070000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Momento Fashion TV</title>
+    <desc lang="pt">De Hilton Maurente. No último episódio da primeira temporada da Caravana Internacional da moda, vamos falar sobre os desafios e as recompensas do trabalho no Deserto do Atacama.(n)</desc>
+    <credits>
+      <director>Hilton Maurente</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Diversos</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20190914070000 -0300" stop="20190914073000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Mobylas</title>
+    <desc lang="pt">De Rafael Godoi C. Da Costa. MOBY TRIKE: Os Tongnhas são desafiados a uma corrida pela equipe de Drift Trike de Atibaia, com profissionais campeões da derrapagem.(n)</desc>
+    <credits>
+      <director>Rafael Godoi C</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20190914073000 -0300" stop="20190914074000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">As Laranjinhas Mundo Afora</title>
+    <desc lang="pt">Viagem. De Marcio Cimatti. O programa compartilha a experiência real de viagem com 2 crianças: as Laranjinhas, Vitória e Giovana, de 8 e 5 anos.(n)</desc>
+    <credits>
+      <director>Marcio Cimatti</director>
+    </credits>
+  </programme>
+  <programme start="20190914074000 -0300" stop="20190914075000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">As Laranjinhas Mundo Afora</title>
+    <desc lang="pt">Viagem. De Marcio Cimatti. O programa compartilha a experiência real de viagem com 2 crianças: as Laranjinhas, Vitória e Giovana, de 8 e 5 anos.(n)</desc>
+    <credits>
+      <director>Marcio Cimatti</director>
+    </credits>
+  </programme>
+  <programme start="20190914075000 -0300" stop="20190914075500 -0300" channel="Travel Box Brazil">
+    <title lang="pt">No Ar</title>
+    <desc lang="pt">De Carlos Alberto Dal Molin Silva. Estar no ar é segunda natureza para toda a família Almeida, de No Ar.(n)</desc>
+    <credits>
+      <director>Carlos Alberto Dal Molin Silva</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Diversos</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20190914075500 -0300" stop="20190914080000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Calle América</title>
+    <desc lang="pt">Viagem. Um casal explorando os encantos da América de uma maneira incomum, conhecendo e viajando a América, trabalhando em projetos sociais e registrando a realidade das pessoas.(n)</desc>
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme start="20190914080000 -0300" stop="20190914083000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Garimpando</title>
+    <desc lang="pt">Cultural. De Marcelo E. Sampaio. Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Marcelo E</director>
+    </credits>
+    <episode-num system="onscreen">S2 E71</episode-num>
+  </programme>
+  <programme start="20190914083000 -0300" stop="20190914090000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Destino Portugal</title>
+    <desc lang="pt">De Luiz Antônio F. Pálacio. No oitavo programa da primeira temporada da nossa série iremos explorar a cidade de Caldas da Rainha que tem duas peculiaridades.(n)</desc>
+    <credits>
+      <director>Luiz Antônio F</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Aventura</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20190914090000 -0300" stop="20190914093000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Destino Incomum</title>
+    <desc lang="pt">De Henrique Castro Mendel. Nova Delhi: A temporada começa pela caótica Nova Delhi a bordo de um Tuk-Tuk, onde conheceremos palácios milenares, mercados de especiarias, além de inúmeros templos.(n)</desc>
+    <credits>
+      <director>Henrique Castro Mendel</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Aventura</category>
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme start="20190914093000 -0300" stop="20190914094000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">1 Remo Uma Busca</title>
+    <desc lang="pt">Shot de imagens mostrando André Torelly, Campeão Brasileiro de Suprace Profissional na categoria unlimited em 2013, explorando Portugal, Costa Rica, Cordilheira dos Andes, Chile, Uruguai e Equador.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Diversos</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20190914094000 -0300" stop="20190914094500 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Destinos Imperdíveis</title>
+    <desc lang="pt">De Anderson Spinelli. Lençóis Maranhenses - Visitamos os Lençóis Maranhenses durante a Rota das Emoções e tivemos a oportunidade de conferir o nascer do sol mais lindo de nossas vidas!(n)</desc>
+    <credits>
+      <director>Anderson Spinelli</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Viagem</category>
+    <episode-num system="onscreen">S4 E4</episode-num>
+  </programme>
+  <programme start="20190914094500 -0300" stop="20190914100000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Bora</title>
+    <desc lang="pt">De Guilherme Luis De Lucca. Família Grilo parte para a aventura de suas vidas: explorar o mundo em um barco! Acompanhe a trajetória desta família que conta até com uma cachorrinha de estimação.(n)</desc>
+    <credits>
+      <director>Guilherme Luis De Lucca</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20190914100000 -0300" stop="20190914103000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Louco Por Viagens</title>
+    <desc lang="pt">Aventura. De Rogério M. Enachev. Tailândia Parte 2: Nesse programa você conhecerá as histórias de Aiutaia, uma pequena cidade da Tailândia e também as famosas e deslumbrantes praias da ilha de Phi Phi.(n)</desc>
+    <credits>
+      <director>Rogério M</director>
+    </credits>
+    <episode-num system="onscreen">S3 E2</episode-num>
+  </programme>
+  <programme start="20190914103000 -0300" stop="20190914104500 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Rodar Mundo</title>
+    <desc lang="pt">Viagem. Com uma pegada mochileira essa dupla mostra os perrengues e conquistas vividos durante uma viagem volta ao mundo.(n)</desc>
+    <episode-num system="onscreen">S2 E16</episode-num>
+  </programme>
+  <programme start="20190914104500 -0300" stop="20190914120000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Travel.doc</title>
+    <desc lang="pt">Diversos. A faixa do Travel Box Brazil dedicada aos melhores documentários nacionais. Wagner desde os 6 anos é proprietário da TV Metror. Aos 17, dirige pela primeira vez seus personagens em carne e osso.(n)</desc>
+  </programme>
+  <programme start="20190914120000 -0300" stop="20190914121500 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Rodar Mundo</title>
+    <desc lang="pt">Viagem. Com uma pegada mochileira essa dupla mostra os perrengues e conquistas vividos durante uma viagem volta ao mundo.(n)</desc>
+    <episode-num system="onscreen">S2 E16</episode-num>
+  </programme>
+  <programme start="20190914121500 -0300" stop="20190914123000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">No Ar</title>
+    <desc lang="pt">De Carlos Alberto Dal Molin Silva. Além dos belos voos, a serra catarinense ainda oferece uma atividade inusitada: snowboard no Brasil. O No Ar não podia perder essa.(n)</desc>
+    <credits>
+      <director>Carlos Alberto Dal Molin Silva</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Diversos</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20190914123000 -0300" stop="20190914130000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Mobylas</title>
+    <desc lang="pt">De Rafael Godoi C. Da Costa. MOBY CROSS: Taboca organiza um rali e todos turbinam suas mobiletes para competir. Surpreendentemente, quem ganha um trato vip na mobi é Sabugo, o eterno novato.(n)</desc>
+    <credits>
+      <director>Rafael Godoi C</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20190914130000 -0300" stop="20190914133000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Conexão Nordeste</title>
+    <desc lang="pt">De Vânia Alves S. Lima. Bailão apresenta o universo das quadrilhas juninas da Bahia e das quatro quadrilhas acompanhadas pela série.(n)</desc>
+    <credits>
+      <director>Vânia Alves S</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20190914133000 -0300" stop="20190914140000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">1 Remo Uma Busca</title>
+    <desc lang="pt">Diversos. Neste episódio Andre Torelly irá até o fim do mundo em Ushuaia no extremo sul da Argentina, e será o primeiro do mundo a remar de sup em um dos maiores canais do mundo o Canal Beaggle.(n)</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20190914140000 -0300" stop="20190914143000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Partiu Aventura</title>
+    <credits>
+      <director>Juliana Meira Amaral</director>
+      <actor>os seis amigos continuam com todo gás para encarar os desafios, seja na terra, no ar ou no mar</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Viagem</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20190914143000 -0300" stop="20190914150000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Destino Incomum</title>
+    <desc lang="pt">De Ricardo Maluf Gardolinski. No episódio de encerramento desta temporada do programa, visitaremos a Cidade do Cabo. Segunda maior metrópole da África do Sul.(n)</desc>
+    <credits>
+      <director>Ricardo Maluf Gardolinski</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Aventura</category>
+    <episode-num system="onscreen">S4 E10</episode-num>
+  </programme>
+  <programme start="20190914150000 -0300" stop="20190914153000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Louco Por Viagens</title>
+    <desc lang="pt">Aventura. De Rogério M. Enachev. Tailândia Parte 1: Nesse programa Rogério Enachev explorará a cidade de Bangkok com seus suntuosos templos, palácios, o Buda com 5 toneladas de ouro.(n)</desc>
+    <credits>
+      <director>Rogério M</director>
+    </credits>
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme start="20190914153000 -0300" stop="20190914160000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Nordeste +</title>
+    <desc lang="pt">De Vânia Alves S. Lima. Marcele Mosso apresenta a Praia de Mucuripe, uma das mais frequentadas de Fortaleza pra conferir o que essa praia tem que atrai tanta gente.(n)</desc>
+    <credits>
+      <director>Vânia Alves S</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Diversos</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000085072_epg.jpg" />
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20190914160000 -0300" stop="20190914180000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Sessão de Cinema: Cara ou Coroa Cara ou Coroa</title>
+    <desc lang="pt">São Paulo,1971. João Pedro é um diretor de teatro atarefado com os ensaios para uma nova peça.(n)</desc>
+    <credits>
+      <director>Ugo Giorgetti</director>
+      <actor>Emílio De Mello Julia Ianina</actor>
+      <actor>Otávio Augusto</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Romance</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+  </programme>
+  <programme start="20190914180000 -0300" stop="20190914183000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Mobylas</title>
+    <desc lang="pt">De Rafael Godoi C. Da Costa. MOBY CROSS: Taboca organiza um rali e todos turbinam suas mobiletes para competir. Surpreendentemente, quem ganha um trato vip na mobi é Sabugo, o eterno novato.(n)</desc>
+    <credits>
+      <director>Rafael Godoi C</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Reality Show</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20190914183000 -0300" stop="20190914185000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Ilex, A Busca Pelo Sabor</title>
+    <desc lang="pt">De Gabriel Amabile Horn. Bem-vinda à mesa Erva-mate: consagrada como uma bebida tradicional, a erva-mate tem potenciais culinários e apresenta seus dotes, como aperitivo, ou como prato principal.(n)</desc>
+    <credits>
+      <director>Gabriel Amabile Horn</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Documentário</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20190914185000 -0300" stop="20190914185500 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Calle América</title>
+    <desc lang="pt">Viagem. Um casal explorando os encantos da América de uma maneira incomum, conhecendo e viajando a América, trabalhando em projetos sociais e registrando a realidade das pessoas.(n)</desc>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme start="20190914185500 -0300" stop="20190914190000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Destinos Imperdíveis</title>
+    <desc lang="pt">De Anderson Spinelli. Toronto - Nesse episódio eu vou levar vocês pra conhecerem Toronto, a principal e maior cidade do Canadá.(n)</desc>
+    <credits>
+      <director>Anderson Spinelli</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Viagem</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+    <episode-num system="onscreen">S4 E5</episode-num>
+  </programme>
+  <programme start="20190914190000 -0300" stop="20190914193000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Conexão Nordeste</title>
+    <credits>
+      <director>Juliana Meira Amaral</director>
+      <actor>os seis amigos continuam com todo gás para encarar os desafios, seja na terra, no ar ou no mar</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Documentário</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20190914193000 -0300" stop="20190914200000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Descobrindo Trilhas</title>
+    <desc lang="pt">Documentário. O casal de fotógrafos André e Paula abandonam a vida urbana para se dedicar ao registro na natureza e trilhas off road!(n)</desc>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20190914200000 -0300" stop="20190914203000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Louco Por Viagens</title>
+    <desc lang="pt">Aventura. De Rogério M. Enachev. Tailândia Parte 2: Nesse programa você conhecerá as histórias de Aiutaia, uma pequena cidade da Tailândia e também as famosas e deslumbrantes praias da ilha de Phi Phi.(n)</desc>
+    <credits>
+      <director>Rogério M</director>
+    </credits>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+  </programme>
+  <programme start="20190914203000 -0300" stop="20190914210000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Sonho Americano</title>
+    <desc lang="pt">De Paulo Eduardo Machado Nascimento. Os viajantes motociclistas partem de NY e chegam a Newark, onde um brasileiro vai mostrar que é possível se sentir no Brasil em todos os sentidos.(n)</desc>
+    <credits>
+      <director>Paulo Eduardo Machado Nascimento</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Documentário</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20190914210000 -0300" stop="20190914213000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Estradas do Mundo</title>
+    <desc lang="pt">De Fernando Nienkotter. Chegou a hora de enfrentar a estrada mais perigosa do Planeta. A tensão e o medo tomam conta dos três motociclistas e quase acontece uma tragédia.(n)</desc>
+    <credits>
+      <director>Fernando Nienkotter</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Diversos</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000077554_epg.jpg" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20190914213000 -0300" stop="20190914220000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Destino Incomum</title>
+    <desc lang="pt">De Ricardo Maluf Gardolinski. O segundo episódio é destinado integralmente para a subida do monte Kilimanjaro, durante 7 dias, até o seu cume.(n)</desc>
+    <credits>
+      <director>Ricardo Maluf Gardolinski</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Aventura</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+    <episode-num system="onscreen">S4 E2</episode-num>
+  </programme>
+  <programme start="20190914220000 -0300" stop="20190914221000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Contrafluxo</title>
+    <desc lang="pt">De Christiana Bernardes. O casal Ana Carolina e Fabiano moraram em várias cidades grandes no Brasil e decidiram desacelar o ritmo se mudando para o interior de Minas Gerais.(n)</desc>
+    <credits>
+      <director>Christiana Bernardes</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Documentário</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20190914221000 -0300" stop="20190914221500 -0300" channel="Travel Box Brazil">
+    <title lang="pt">No Ar</title>
+    <desc lang="pt">De Carlos Alberto Dal Molin Silva. Estar no ar é segunda natureza para toda a família Almeida, de No Ar.(n)</desc>
+    <credits>
+      <director>Carlos Alberto Dal Molin Silva</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Diversos</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20190914221500 -0300" stop="20190914223000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Bora</title>
+    <desc lang="pt">De Guilherme Luis De Lucca. Família Grilo parte para a aventura de suas vidas: explorar o mundo em um barco! Acompanhe a trajetória desta família que conta até com uma cachorrinha de estimação.(n)</desc>
+    <credits>
+      <director>Guilherme Luis De Lucca</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Reality Show</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+  </programme>
+  <programme start="20190914223000 -0300" stop="20190914230000 -0300" channel="Travel Box Brazil">
+    <title lang="pt">Vinhos BR</title>
+    <desc lang="pt">Este episódio é dedicado àqueles que acreditam que só se produz vinhos no Sul do país e por descendentes de italianos.(n)</desc>
+    <credits>
+      <director>Malu De Martinho</director>
+      <actor>Antonio Salton</actor>
+      <actor>Daniel Salton</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Documentário</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20190914000600 -0300" stop="20190914002900 -0300" channel="Trutv.br">
+    <title lang="pt">Estilo Texas</title>
+    <desc lang="pt">Uma investigação sobre operações empresariais suspeitas acaba em um confronto perigoso entre Jay e alguns ex-presidiários.(n)</desc>
+    <credits>
+      <director>Peter Herschko</director>
+      <actor>Brian Patrick Catalano</actor>
+      <actor>Angel Garet</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S3 E8</episode-num>
+  </programme>
+  <programme start="20190914002900 -0300" stop="20190914005200 -0300" channel="Trutv.br">
+    <title lang="pt">Estilo Texas</title>
+    <desc lang="pt">De Peter Herschko. Jay e sua equipe se veem no meio de uma crise familiar por causa das drogas.(n)</desc>
+    <credits>
+      <director>Peter Herschko</director>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20190914005200 -0300" stop="20190914011400 -0300" channel="Trutv.br">
+    <title lang="pt">Tesouros de Garagem Storage Hunters</title>
+    <desc lang="pt">Reality Show. Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+  </programme>
+  <programme start="20190914011400 -0300" stop="20190914013600 -0300" channel="Trutv.br">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Reality Show. Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20190914013600 -0300" stop="20190914021900 -0300" channel="Trutv.br">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+    <desc lang="pt">A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais, ridículas, protagonizadas por personagens.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Comédia</category>
+    <episode-num system="onscreen">S14 E6</episode-num>
+  </programme>
+  <programme start="20190914021900 -0300" stop="20190914030300 -0300" channel="Trutv.br">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo World's Dumbest</title>
+    <desc lang="pt">Comédia. De Jason Cilo. Com Todd Bridges, Chip Bolcik. A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+    </credits>
+  </programme>
+  <programme start="20190914030300 -0300" stop="20190914034400 -0300" channel="Trutv.br">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+    <desc lang="pt">Comédia. De Jason Cilo. Com Todd Bridges, Chip Bolcik. A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+    </credits>
+    <episode-num system="onscreen">S12 E11</episode-num>
+  </programme>
+  <programme start="20190914034400 -0300" stop="20190914042700 -0300" channel="Trutv.br">
+    <title lang="pt">Ink Master</title>
+    <desc lang="pt">Tatuagens nas pálpebras deixam os artistas com lágrimas nos olhos. Joshua ataca e Tatu Baby contra-ataca.(n)</desc>
+    <credits>
+      <director>Paul Starkman</director>
+      <actor>Kyle Dunbar</actor>
+      <actor>Jason Clay Dunn</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">S3 E10</episode-num>
+  </programme>
+  <programme start="20190914042700 -0300" stop="20190914045000 -0300" channel="Trutv.br">
+    <title lang="pt">Isca Sobre Rodas</title>
+    <desc lang="pt">Policial. Uma fuga está em andamento e a polícia precisa de respostas rápidas. Nesse episódio, veja algo que a polícia jamais tinha presenciado.(n)</desc>
+    <episode-num system="onscreen">S8 E15</episode-num>
+  </programme>
+  <programme start="20190914045000 -0300" stop="20190914051200 -0300" channel="Trutv.br">
+    <title lang="pt">Isca Sobre Rodas</title>
+    <desc lang="pt">Policial. Um aspirante a estrela do rap cai na armadilha da polícia e acha que ser preso é o seu passaporte para o estrelato. Uma volta no carro isca parece adicionar anos à vida de um jovem suspeito.(n)</desc>
+    <episode-num system="onscreen">S8 E11</episode-num>
+  </programme>
+  <programme start="20190914051200 -0300" stop="20190914053500 -0300" channel="Trutv.br">
+    <title lang="pt">Isca Sobre Rodas</title>
+    <desc lang="pt">Dois suspeitos entram na rota da colisão. Mais tarde, um sujeito com o vocabulário carregado muda seu tom. Depois, dois irmãos entram em pânico e ficam completamente assustados.(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Policial</category>
+    <episode-num system="onscreen">S8 E12</episode-num>
+  </programme>
+  <programme start="20190914053500 -0300" stop="20190914060000 -0300" channel="Trutv.br">
+    <title lang="pt">Isca Sobre Rodas</title>
+    <desc lang="pt">Dois suspeitos distraídos são capturados. E outros dois têm um plano mestre, até que são parados pela lei. Mais tarde, a hora do jantar será abruptamente interrompida.(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Policial</category>
+    <episode-num system="onscreen">S8 E13</episode-num>
+  </programme>
+  <programme start="20190914060000 -0300" stop="20190914065700 -0300" channel="Trutv.br">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+    <desc lang="pt">Comédia. De Jason Cilo. Com Todd Bridges, Chip Bolcik. A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+    </credits>
+    <episode-num system="onscreen">S10 E3</episode-num>
+  </programme>
+  <programme start="20190914065700 -0300" stop="20190914074100 -0300" channel="Trutv.br">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo World's Dumbest</title>
+    <desc lang="pt">Comédia. De Jason Cilo. Com Todd Bridges, Chip Bolcik. A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+    </credits>
+  </programme>
+  <programme start="20190914074100 -0300" stop="20190914082500 -0300" channel="Trutv.br">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo World's Dumbest</title>
+    <desc lang="pt">Comédia. De Jason Cilo. Com Todd Bridges, Chip Bolcik. A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+    </credits>
+  </programme>
+  <programme start="20190914082500 -0300" stop="20190914090900 -0300" channel="Trutv.br">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo World's Dumbest</title>
+    <desc lang="pt">Comédia. De Jason Cilo. Com Todd Bridges, Chip Bolcik. A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+    </credits>
+  </programme>
+  <programme start="20190914090900 -0300" stop="20190914095400 -0300" channel="Trutv.br">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo World's Dumbest</title>
+    <desc lang="pt">Comédia. De Jason Cilo. Com Todd Bridges, Chip Bolcik. A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+    </credits>
+  </programme>
+  <programme start="20190914095400 -0300" stop="20190914103800 -0300" channel="Trutv.br">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo World's Dumbest</title>
+    <desc lang="pt">Comédia. De Jason Cilo. Com Todd Bridges, Chip Bolcik. A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+    </credits>
+  </programme>
+  <programme start="20190914103800 -0300" stop="20190914110000 -0300" channel="Trutv.br">
+    <title lang="pt">Tirando a Maior Onda Impractical Jokers: After Party</title>
+    <desc lang="pt">De P. J. Morrison. Com Brian Quinn, Joe Gatto. O anfitrião Joey Fatone junta-se a Joe, Sal, Murr e Q. para ir aos bastidores do programa de hoje de Tirando a Maior Onda.(n)</desc>
+    <credits>
+      <director>P</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20190914110000 -0300" stop="20190914112300 -0300" channel="Trutv.br">
+    <title lang="pt">Tirando a Maior Onda Impractical Jokers: After Party</title>
+    <desc lang="pt">De P. J. Morrison. Com Brian Quinn, Joe Gatto. Sal e Joe saem com o anfitrião Joey Fatone para discutir o programa de hoje. Um por um, Joe vai revelar quem é o favorito de cada um deles.(n)</desc>
+    <credits>
+      <director>P</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20190914112300 -0300" stop="20190914114500 -0300" channel="Trutv.br">
+    <title lang="pt">Tirando a Maior Onda Impractical Jokers: After Party</title>
+    <desc lang="pt">De P. J. Morrison. Com Brian Quinn, Joe Gatto. Sal e Joe saem com o anfitrião Joey Fatone para discutir o programa de hoje. Um por um, Joe vai revelar quem é o favorito de cada um deles.(n)</desc>
+    <credits>
+      <director>P</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20190914114500 -0300" stop="20190914120600 -0300" channel="Trutv.br">
+    <title lang="pt">Tirando a Maior Onda Impractical Jokers: After Party</title>
+    <desc lang="pt">De P. J. Morrison. Com Brian Quinn, Joe Gatto. Murr e Joe unem forças com Joey Fatone para conversar sobre o programa de hoje.(n)</desc>
+    <credits>
+      <director>P</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20190914120600 -0300" stop="20190914122900 -0300" channel="Trutv.br">
+    <title lang="pt">Tirando a Maior Onda Impractical Jokers: After Party</title>
+    <desc lang="pt">De P. J. Morrison. Com Brian Quinn, Joe Gatto. Murr, Q. e um atrasadinho sentam-se com o anfitrião Joey Fatone para conversar sobre o programa de hoje: Silêncio dos Esfarrapados.(n)</desc>
+    <credits>
+      <director>P</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20190914122900 -0300" stop="20190914125100 -0300" channel="Trutv.br">
+    <title lang="pt">Tirando a Maior Onda Impractical Jokers: After Party</title>
+    <desc lang="pt">De P. J. Morrison. Com Brian Quinn, Joe Gatto. O anfitrião Joey Fatone bate-papo com Murr, Q. e Joe do Tirando a Maior Onda sobre seu último programa.(n)</desc>
+    <credits>
+      <director>P</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20190914125100 -0300" stop="20190914131200 -0300" channel="Trutv.br">
+    <title lang="pt">Tirando a Maior Onda Impractical Jokers: After Party</title>
+    <desc lang="pt">De P. J. Morrison. Com Brian Quinn, Joe Gatto. Murr e Joe saem com o anfitrião Joey Fatone para discutir o programa de hoje e compartilhar vídeos bônus.(n)</desc>
+    <credits>
+      <director>P</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20190914131200 -0300" stop="20190914133400 -0300" channel="Trutv.br">
+    <title lang="pt">Tirando a Maior Onda Impractical Jokers: After Party</title>
+    <desc lang="pt">De P. J. Morrison. Com Brian Quinn, Joe Gatto. Joey Fatone conversa com Joe, Q. e Murr sobre o programa de hoje. Descubra como Murr poderia facilmente ter quebrado o pescoço.(n)</desc>
+    <credits>
+      <director>P</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20190914133400 -0300" stop="20190914135700 -0300" channel="Trutv.br">
+    <title lang="pt">Tirando a Maior Onda Impractical Jokers: After Party</title>
+    <desc lang="pt">De P. J. Morrison. Com Brian Quinn, Joe Gatto. Joey Fatone vai encurralar Sal, Joe, Q. e Bryan Johnson de "Comic Book Men" para discutir sobre o programa de hoje.(n)</desc>
+    <credits>
+      <director>P</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20190914135700 -0300" stop="20190914141900 -0300" channel="Trutv.br">
+    <title lang="pt">Tirando a Maior Onda Impractical Jokers: After Party</title>
+    <desc lang="pt">De P. J. Morrison. Com Brian Quinn, Joe Gatto. O anfitrião Joey Fatone junta-se a Joe, Sal, Murr e Q. para ir aos bastidores do programa de hoje de Tirando a Maior Onda.(n)</desc>
+    <credits>
+      <director>P</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20190914141900 -0300" stop="20190914144000 -0300" channel="Trutv.br">
+    <title lang="pt">Tirando a Maior Onda Impractical Jokers: After Party</title>
+    <desc lang="pt">De P. J. Morrison. Com Brian Quinn, Joe Gatto. Sal e Joe saem com o anfitrião Joey Fatone para discutir o programa de hoje. Um por um, Joe vai revelar quem é o favorito de cada um deles.(n)</desc>
+    <credits>
+      <director>P</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20190914144000 -0300" stop="20190914150300 -0300" channel="Trutv.br">
+    <title lang="pt">Tirando a Maior Onda Impractical Jokers: After Party</title>
+    <desc lang="pt">De P. J. Morrison. Com Brian Quinn, Joe Gatto. Sal e Joe saem com o anfitrião Joey Fatone para discutir o programa de hoje. Um por um, Joe vai revelar quem é o favorito de cada um deles.(n)</desc>
+    <credits>
+      <director>P</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20190914150300 -0300" stop="20190914152500 -0300" channel="Trutv.br">
+    <title lang="pt">Tirando a Maior Onda Impractical Jokers: After Party</title>
+    <desc lang="pt">De P. J. Morrison. Com Brian Quinn, Joe Gatto. Murr e Joe unem forças com Joey Fatone para conversar sobre o programa de hoje.(n)</desc>
+    <credits>
+      <director>P</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20190914152500 -0300" stop="20190914154800 -0300" channel="Trutv.br">
+    <title lang="pt">Tirando a Maior Onda Impractical Jokers: After Party</title>
+    <desc lang="pt">De P. J. Morrison. Com Brian Quinn, Joe Gatto. Murr, Q. e um atrasadinho sentam-se com o anfitrião Joey Fatone para conversar sobre o programa de hoje: Silêncio dos Esfarrapados.(n)</desc>
+    <credits>
+      <director>P</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20190914154800 -0300" stop="20190914160900 -0300" channel="Trutv.br">
+    <title lang="pt">Tirando a Maior Onda Impractical Jokers: After Party</title>
+    <desc lang="pt">De P. J. Morrison. Com Brian Quinn, Joe Gatto. O anfitrião Joey Fatone bate-papo com Murr, Q. e Joe do Tirando a Maior Onda sobre seu último programa.(n)</desc>
+    <credits>
+      <director>P</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20190914160900 -0300" stop="20190914163100 -0300" channel="Trutv.br">
+    <title lang="pt">Tirando a Maior Onda Impractical Jokers: After Party</title>
+    <desc lang="pt">De P. J. Morrison. Com Brian Quinn, Joe Gatto. Murr e Joe saem com o anfitrião Joey Fatone para discutir o programa de hoje e compartilhar vídeos bônus.(n)</desc>
+    <credits>
+      <director>P</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20190914163100 -0300" stop="20190914165400 -0300" channel="Trutv.br">
+    <title lang="pt">Tirando a Maior Onda Impractical Jokers: After Party</title>
+    <desc lang="pt">De P. J. Morrison. Com Brian Quinn, Joe Gatto. Joey Fatone conversa com Joe, Q. e Murr sobre o programa de hoje. Descubra como Murr poderia facilmente ter quebrado o pescoço.(n)</desc>
+    <credits>
+      <director>P</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20190914165400 -0300" stop="20190914171500 -0300" channel="Trutv.br">
+    <title lang="pt">Tirando a Maior Onda Impractical Jokers: After Party</title>
+    <desc lang="pt">De P. J. Morrison. Com Brian Quinn, Joe Gatto. Joey Fatone vai encurralar Sal, Joe, Q. e Bryan Johnson de "Comic Book Men" para discutir sobre o programa de hoje.(n)</desc>
+    <credits>
+      <director>P</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000067695_epg.jpg" />
+  </programme>
+  <programme start="20190914171500 -0300" stop="20190914173700 -0300" channel="Trutv.br">
+    <title lang="pt">Tirando a Maior Onda Impractical Jokers: After Party</title>
+    <desc lang="pt">De P. J. Morrison. Com Brian Quinn, Joe Gatto. O anfitrião Joey Fatone junta-se a Joe, Sal, Murr e Q. para ir aos bastidores do programa de hoje de Tirando a Maior Onda.(n)</desc>
+    <credits>
+      <director>P</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000067695_epg.jpg" />
+  </programme>
+  <programme start="20190914173700 -0300" stop="20190914180000 -0300" channel="Trutv.br">
+    <title lang="pt">Tirando a Maior Onda Impractical Jokers: After Party</title>
+    <desc lang="pt">De P. J. Morrison. Com Brian Quinn, Joe Gatto. Sal e Joe saem com o anfitrião Joey Fatone para discutir o programa de hoje. Um por um, Joe vai revelar quem é o favorito de cada um deles.(n)</desc>
+    <credits>
+      <director>P</director>
+      <actor>Brian Quinn</actor>
+      <actor>Joe Gatto</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000068086_epg.jpg" />
+  </programme>
+  <programme start="20190914180000 -0300" stop="20190914184500 -0300" channel="Trutv.br">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo World's Dumbest</title>
+    <desc lang="pt">Comédia. De Jason Cilo. Com Todd Bridges, Chip Bolcik. A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+    </credits>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000068086_epg.jpg" />
+  </programme>
+  <programme start="20190914184500 -0300" stop="20190914193000 -0300" channel="Trutv.br">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo World's Dumbest</title>
+    <desc lang="pt">Comédia. De Jason Cilo. Com Todd Bridges, Chip Bolcik. A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+    </credits>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000068086_epg.jpg" />
+  </programme>
+  <programme start="20190914193000 -0300" stop="20190914201500 -0300" channel="Trutv.br">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo World's Dumbest</title>
+    <desc lang="pt">Comédia. De Jason Cilo. Com Todd Bridges, Chip Bolcik. A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+    </credits>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000068086_epg.jpg" />
+  </programme>
+  <programme start="20190914201500 -0300" stop="20190914205900 -0300" channel="Trutv.br">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo World's Dumbest</title>
+    <desc lang="pt">Comédia. De Jason Cilo. Com Todd Bridges, Chip Bolcik. A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+    </credits>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+  </programme>
+  <programme start="20190914205900 -0300" stop="20190914212200 -0300" channel="Trutv.br">
+    <title lang="pt">Guia De Sobrevivência Nas Férias &amp; Surpresa Holiday Survival Guide &amp; Double Takes</title>
+    <desc lang="pt">É o déjà vu mais uma vez na parte 2 do nosso especial de dobrar mentes, no qual Michael compartilha vídeos novinhos em folha de seus truques favoritos com gravações nunca antes vistas!(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Diversos</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000076173000_epg.jpg" />
+  </programme>
+  <programme start="20190914212200 -0300" stop="20190914214500 -0300" channel="Trutv.br">
+    <title lang="pt">Efeito Carbonaro The Carbonaro Effect</title>
+    <desc lang="pt">Neste episódio especial, Michael apresenta os truques mais comentados da primeira temporada e revela novos materiais de bastidores.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Reality Show</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000076173000_epg.jpg" />
+  </programme>
+  <programme start="20190914214500 -0300" stop="20190914220700 -0300" channel="Trutv.br">
+    <title lang="pt">Efeito Carbonaro The Carbonaro Effect</title>
+    <desc lang="pt">Michael mostra as propriedades transformadoras de frutas e vegetais e mostra a um vendedor o verdadeiro poder dos produtos lácteos.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000076173000_epg.jpg" />
+  </programme>
+  <programme start="20190914220700 -0300" stop="20190914223000 -0300" channel="Trutv.br">
+    <title lang="pt">Efeito Carbonaro The Carbonaro Effect</title>
+    <desc lang="pt">Em um antiquário, Michael mostra uma forma impossível de organizar as roupas, e no supermercado descobrimos que há algumas surpresas à espreita em nossos alimentos preferidos.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Reality Show</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+  </programme>
+  <programme start="20190914223000 -0300" stop="20190914232100 -0300" channel="Trutv.br">
+    <title lang="pt">Bondi Ink</title>
+    <desc lang="pt">Bastidores do maior estúdio de tatuagem da Austrália, durante a frenética temporada de verão na emblemática Bondi beach.(n)</desc>
+    <credits>
+      <director>Kristie Spillane</director>
+      <actor>Megan Massacre</actor>
+      <actor>Teneile Napoli</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Documentário</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20190914000000 -0300" stop="20190914004500 -0300" channel="viva.br">
+    <title lang="pt">Porto dos Milagres</title>
+    <desc lang="pt">Guma e os pescadores entram no Centro. Félix faz discurso contra o "templo de Belzebu".(n)</desc>
+    <episode-num system="onscreen">E179</episode-num>
+  </programme>
+  <programme start="20190914004500 -0300" stop="20190914013000 -0300" channel="viva.br">
+    <title lang="pt">Selva de Pedra</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <episode-num system="onscreen">E24</episode-num>
+  </programme>
+  <programme start="20190914013000 -0300" stop="20190914020000 -0300" channel="viva.br">
+    <title lang="pt">A Feiticeira</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>William Asher</director>
+      <actor>Elizabeth Montgomery</actor>
+      <actor>Dick York</actor>
+    </credits>
+    <date>1965</date>
+    <category lang="pt">Comédia</category>
+    <episode-num system="onscreen">S1 E18</episode-num>
+  </programme>
+  <programme start="20190914020000 -0300" stop="20190914030000 -0300" channel="viva.br">
+    <title lang="pt">Supernanny Pelo Mundo</title>
+    <desc lang="pt">De Stephen Oleary. Chastity é uma jovem mãe solteira que possui um câncer sem cura.(n)</desc>
+    <credits>
+      <director>Stephen Oleary</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Reality Show</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20190914030000 -0300" stop="20190914040000 -0300" channel="viva.br">
+    <title lang="pt">Viver do Riso</title>
+    <desc lang="pt">De Guto Barra. Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Guto Barra</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20190914040000 -0300" stop="20190914050000 -0300" channel="viva.br">
+    <title lang="pt">Os Trapalhões e o Mágico de Oróz Os Trapalhões e o Mágico de Oróz</title>
+    <desc lang="pt">Paródia do clássico "O Mágico de Oz", com Zacarias fazendo o espantalho e Mussum o tonel falante. Didi parte em busca da cidade de Oróz.(n)</desc>
+    <credits>
+      <director>Victor Lustosa</director>
+      <actor>Renato Aragão</actor>
+      <actor>Maurício do Valle</actor>
+    </credits>
+    <date>1984</date>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20190914050000 -0300" stop="20190914060000 -0300" channel="viva.br">
+    <title lang="pt">Entre o Céu e a Terra</title>
+    <desc lang="pt">De Thomas Miguez. O que pensam as diversas crenças sobre Pecado e Penitência é tema de Entre o Céu e a Terra.(n)</desc>
+    <credits>
+      <director>Thomas Miguez</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Religião</category>
+    <episode-num system="onscreen">S1 E20</episode-num>
+  </programme>
+  <programme start="20190914060000 -0300" stop="20190914070000 -0300" channel="viva.br">
+    <title lang="pt">Santa Missa</title>
+    <desc lang="pt">De Fernando Gueiros. Santa Missa rezada pelo Padre Marcelo Rossi.(n)</desc>
+    <credits>
+      <director>Fernando Gueiros</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20190914070000 -0300" stop="20190914084500 -0300" channel="viva.br">
+    <title lang="pt">Um Presente Para Toda Vida Little Cookie</title>
+    <desc lang="pt">De Léa Fazer. A governanta chinesa de Adeline de repente desaparece, deixando para trás um menino que não fala uma palavra da língua francesa.(n)</desc>
+    <credits>
+      <director>Léa Fazer</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20190914084500 -0300" stop="20190914103000 -0300" channel="viva.br">
+    <title lang="pt">Os Trapalhões no Reino da Fantasia Os Trapalhões no Reino da Fantasia</title>
+    <desc lang="pt">Para salvar o orfanato de Irmã Maria, Os Trapalhões fazem um espetáculo beneficente em prol da instituição. Mas o dinheiro dos ingressos é roubado.(n)</desc>
+    <credits>
+      <director>Dedé Santana</director>
+      <actor>Renato Aragão</actor>
+      <actor>Maurício do Valle</actor>
+    </credits>
+    <date>1985</date>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20190914103000 -0300" stop="20190914121500 -0300" channel="viva.br">
+    <title lang="pt">Domingão do Faustão Domingão do Faustão</title>
+    <desc lang="pt">Diversos. Sinopse Não Disponível.(n)</desc>
+  </programme>
+  <programme start="20190914121500 -0300" stop="20190914124500 -0300" channel="viva.br">
+    <title lang="pt">Pé na Cova</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Roberto Talma</director>
+      <actor>Miguel Falabella</actor>
+      <actor>Marília Pera</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Humor</category>
+    <episode-num system="onscreen">S3 E3</episode-num>
+  </programme>
+  <programme start="20190914124500 -0300" stop="20190914133000 -0300" channel="viva.br">
+    <title lang="pt">A Diarista</title>
+    <desc lang="pt">Comédia de costumes que conta as aventuras da empregada doméstica Marinete (Cláudia Rodrigues) e seus amigos.(n)</desc>
+    <credits>
+      <director>José Alvarenga Junior</director>
+      <actor>Dira Paes</actor>
+      <actor>Cláudia Rodrigues</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Humor</category>
+    <episode-num system="onscreen">E36</episode-num>
+  </programme>
+  <programme start="20190914133000 -0300" stop="20190914143000 -0300" channel="viva.br">
+    <title lang="pt">O Cravo e a Rosa</title>
+    <desc lang="pt">Heitor tem esperanças de se casar com Bianca. Calixto conta para Petruchio o desempenho de Catarina.(n)</desc>
+    <episode-num system="onscreen">E149</episode-num>
+  </programme>
+  <programme start="20190914143000 -0300" stop="20190914153000 -0300" channel="viva.br">
+    <title lang="pt">Selva de Pedra</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <episode-num system="onscreen">E25</episode-num>
+  </programme>
+  <programme start="20190914153000 -0300" stop="20190914161500 -0300" channel="viva.br">
+    <title lang="pt">Porto dos Milagres</title>
+    <desc lang="pt">Os pescadores se preparam para a briga com os capangas de Félix.(n)</desc>
+    <episode-num system="onscreen">E180</episode-num>
+  </programme>
+  <programme start="20190914161500 -0300" stop="20190914165000 -0300" channel="viva.br">
+    <title lang="pt">A Grande Família</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Daneila Braga Frate</director>
+      <actor>Marco Nanini</actor>
+      <actor>Marieta Severo</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Humor</category>
+    <episode-num system="onscreen">S9 E1</episode-num>
+  </programme>
+  <programme start="20190914165000 -0300" stop="20190914172500 -0300" channel="viva.br">
+    <title lang="pt">A Grande Família</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Daneila Braga Frate</director>
+      <actor>Marco Nanini</actor>
+      <actor>Marieta Severo</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Humor</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000022269_epg.jpg" />
+    <episode-num system="onscreen">S9 E2</episode-num>
+  </programme>
+  <programme start="20190914172500 -0300" stop="20190914180000 -0300" channel="viva.br">
+    <title lang="pt">A Grande Família</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Daneila Braga Frate</director>
+      <actor>Marco Nanini</actor>
+      <actor>Marieta Severo</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Humor</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000087518000_epg.jpg" />
+    <episode-num system="onscreen">S9 E3</episode-num>
+  </programme>
+  <programme start="20190914180000 -0300" stop="20190914190000 -0300" channel="viva.br">
+    <title lang="pt">Viver do Riso</title>
+    <desc lang="pt">De Guto Barra. Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Guto Barra</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Documentário</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000092557001_epg.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20190914190000 -0300" stop="20190914193000 -0300" channel="viva.br">
+    <title lang="pt">As Vilãs que Amamos</title>
+    <desc lang="pt">Renata fala sobre Nazaré, sua repercussão até hoje e a sua inspiração . Relembra seu início na televisão como mocinhas e do prazer e o humor das vilãs.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Documentário</category>
+    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
+    <episode-num system="onscreen">S1 E13</episode-num>
+  </programme>
+  <programme start="20190914193000 -0300" stop="20190914214000 -0300" channel="viva.br">
+    <title lang="pt">Simbad, o Marujo Trapalhão Simbad, O Marujo Trapalhão</title>
+    <desc lang="pt">De J. B. Tanko. Com Renato Aragão, Edson Rabello. O faxineiro de um circo é confundido com o trapezista Simbad e acaba seqüestrado pelos capangas do mágico Ali, que busca uma poderosa pedra filosofal.(n)</desc>
+    <credits>
+      <director>J</director>
+      <actor>Renato Aragão</actor>
+      <actor>Edson Rabello</actor>
+    </credits>
+    <date>1976</date>
+    <category lang="pt">Comédia</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000022269008_epg.jpg" />
+  </programme>
+  <programme start="20190914214000 -0300" stop="20190914222000 -0300" channel="viva.br">
+    <title lang="pt">A Grande Família</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Daniela Braga</director>
+      <actor>Marco Nanini</actor>
+      <actor>Marieta Severo</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Humor</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000022269008_epg.jpg" />
+    <episode-num system="onscreen">S8 E37</episode-num>
+  </programme>
+  <programme start="20190914222000 -0300" stop="20190914230000 -0300" channel="viva.br">
+    <title lang="pt">A Grande Família</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <credits>
+      <director>Daniela Braga</director>
+      <actor>Marco Nanini</actor>
+      <actor>Marieta Severo</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Humor</category>
+    <icon src="http://tvplus.com.br/images/epg_224/00000000070541000_epg.jpg" />
+    <episode-num system="onscreen">S8 E38</episode-num>
+  </programme>
+</tv>

@@ -25,7 +25,7 @@
     <icon src="http://tvplus.com.br/images/logos/TRU.png" />
     <url>http://www.tvplus.com.br.E</url>
   </channel>
-  <channel id="viva.br">
+  <channel id="Viva.br">
     <display-name lang="pt">Viva</display-name>
     <icon src="http://tvplus.com.br/images/logos/VIV.png" />
     <url>http://www.tvplus.com.br.E</url>
@@ -1591,7 +1591,6 @@
     </credits>
     <date>2017</date>
     <category lang="pt">Reality Show</category>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000067695_epg.jpg" />
   </programme>
   <programme start="20190914171500 -0300" stop="20190914173700 -0300" channel="Trutv.br">
     <title lang="pt">Tirando a Maior Onda Impractical Jokers: After Party</title>
@@ -1698,17 +1697,17 @@
     <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
     <episode-num system="onscreen">S2 E6</episode-num>
   </programme>
-  <programme start="20190914000000 -0300" stop="20190914004500 -0300" channel="viva.br">
+  <programme start="20190914000000 -0300" stop="20190914004500 -0300" channel="Viva.br">
     <title lang="pt">Porto dos Milagres</title>
     <desc lang="pt">Guma e os pescadores entram no Centro. Félix faz discurso contra o "templo de Belzebu".(n)</desc>
     <episode-num system="onscreen">E179</episode-num>
   </programme>
-  <programme start="20190914004500 -0300" stop="20190914013000 -0300" channel="viva.br">
+  <programme start="20190914004500 -0300" stop="20190914013000 -0300" channel="Viva.br">
     <title lang="pt">Selva de Pedra</title>
     <desc lang="pt">Sinopse Não Disponível.(n)</desc>
     <episode-num system="onscreen">E24</episode-num>
   </programme>
-  <programme start="20190914013000 -0300" stop="20190914020000 -0300" channel="viva.br">
+  <programme start="20190914013000 -0300" stop="20190914020000 -0300" channel="Viva.br">
     <title lang="pt">A Feiticeira</title>
     <desc lang="pt">Sinopse Não Disponível.(n)</desc>
     <credits>
@@ -1720,7 +1719,7 @@
     <category lang="pt">Comédia</category>
     <episode-num system="onscreen">S1 E18</episode-num>
   </programme>
-  <programme start="20190914020000 -0300" stop="20190914030000 -0300" channel="viva.br">
+  <programme start="20190914020000 -0300" stop="20190914030000 -0300" channel="Viva.br">
     <title lang="pt">Supernanny Pelo Mundo</title>
     <desc lang="pt">De Stephen Oleary. Chastity é uma jovem mãe solteira que possui um câncer sem cura.(n)</desc>
     <credits>
@@ -1730,7 +1729,7 @@
     <category lang="pt">Reality Show</category>
     <episode-num system="onscreen">E3</episode-num>
   </programme>
-  <programme start="20190914030000 -0300" stop="20190914040000 -0300" channel="viva.br">
+  <programme start="20190914030000 -0300" stop="20190914040000 -0300" channel="Viva.br">
     <title lang="pt">Viver do Riso</title>
     <desc lang="pt">De Guto Barra. Sinopse Não Disponível.(n)</desc>
     <credits>
@@ -1740,7 +1739,7 @@
     <category lang="pt">Documentário</category>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20190914040000 -0300" stop="20190914050000 -0300" channel="viva.br">
+  <programme start="20190914040000 -0300" stop="20190914050000 -0300" channel="Viva.br">
     <title lang="pt">Os Trapalhões e o Mágico de Oróz Os Trapalhões e o Mágico de Oróz</title>
     <desc lang="pt">Paródia do clássico "O Mágico de Oz", com Zacarias fazendo o espantalho e Mussum o tonel falante. Didi parte em busca da cidade de Oróz.(n)</desc>
     <credits>
@@ -1751,7 +1750,7 @@
     <date>1984</date>
     <category lang="pt">Infantil</category>
   </programme>
-  <programme start="20190914050000 -0300" stop="20190914060000 -0300" channel="viva.br">
+  <programme start="20190914050000 -0300" stop="20190914060000 -0300" channel="Viva.br">
     <title lang="pt">Entre o Céu e a Terra</title>
     <desc lang="pt">De Thomas Miguez. O que pensam as diversas crenças sobre Pecado e Penitência é tema de Entre o Céu e a Terra.(n)</desc>
     <credits>
@@ -1761,7 +1760,7 @@
     <category lang="pt">Religião</category>
     <episode-num system="onscreen">S1 E20</episode-num>
   </programme>
-  <programme start="20190914060000 -0300" stop="20190914070000 -0300" channel="viva.br">
+  <programme start="20190914060000 -0300" stop="20190914070000 -0300" channel="Viva.br">
     <title lang="pt">Santa Missa</title>
     <desc lang="pt">De Fernando Gueiros. Santa Missa rezada pelo Padre Marcelo Rossi.(n)</desc>
     <credits>
@@ -1770,7 +1769,7 @@
     <date>2016</date>
     <category lang="pt">Religião</category>
   </programme>
-  <programme start="20190914070000 -0300" stop="20190914084500 -0300" channel="viva.br">
+  <programme start="20190914070000 -0300" stop="20190914084500 -0300" channel="Viva.br">
     <title lang="pt">Um Presente Para Toda Vida Little Cookie</title>
     <desc lang="pt">De Léa Fazer. A governanta chinesa de Adeline de repente desaparece, deixando para trás um menino que não fala uma palavra da língua francesa.(n)</desc>
     <credits>
@@ -1779,7 +1778,7 @@
     <date>2012</date>
     <category lang="pt">Drama</category>
   </programme>
-  <programme start="20190914084500 -0300" stop="20190914103000 -0300" channel="viva.br">
+  <programme start="20190914084500 -0300" stop="20190914103000 -0300" channel="Viva.br">
     <title lang="pt">Os Trapalhões no Reino da Fantasia Os Trapalhões no Reino da Fantasia</title>
     <desc lang="pt">Para salvar o orfanato de Irmã Maria, Os Trapalhões fazem um espetáculo beneficente em prol da instituição. Mas o dinheiro dos ingressos é roubado.(n)</desc>
     <credits>
@@ -1790,11 +1789,11 @@
     <date>1985</date>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20190914103000 -0300" stop="20190914121500 -0300" channel="viva.br">
+  <programme start="20190914103000 -0300" stop="20190914121500 -0300" channel="Viva.br">
     <title lang="pt">Domingão do Faustão Domingão do Faustão</title>
     <desc lang="pt">Diversos. Sinopse Não Disponível.(n)</desc>
   </programme>
-  <programme start="20190914121500 -0300" stop="20190914124500 -0300" channel="viva.br">
+  <programme start="20190914121500 -0300" stop="20190914124500 -0300" channel="Viva.br">
     <title lang="pt">Pé na Cova</title>
     <desc lang="pt">Sinopse Não Disponível.(n)</desc>
     <credits>
@@ -1806,7 +1805,7 @@
     <category lang="pt">Humor</category>
     <episode-num system="onscreen">S3 E3</episode-num>
   </programme>
-  <programme start="20190914124500 -0300" stop="20190914133000 -0300" channel="viva.br">
+  <programme start="20190914124500 -0300" stop="20190914133000 -0300" channel="Viva.br">
     <title lang="pt">A Diarista</title>
     <desc lang="pt">Comédia de costumes que conta as aventuras da empregada doméstica Marinete (Cláudia Rodrigues) e seus amigos.(n)</desc>
     <credits>
@@ -1818,22 +1817,22 @@
     <category lang="pt">Humor</category>
     <episode-num system="onscreen">E36</episode-num>
   </programme>
-  <programme start="20190914133000 -0300" stop="20190914143000 -0300" channel="viva.br">
+  <programme start="20190914133000 -0300" stop="20190914143000 -0300" channel="Viva.br">
     <title lang="pt">O Cravo e a Rosa</title>
     <desc lang="pt">Heitor tem esperanças de se casar com Bianca. Calixto conta para Petruchio o desempenho de Catarina.(n)</desc>
     <episode-num system="onscreen">E149</episode-num>
   </programme>
-  <programme start="20190914143000 -0300" stop="20190914153000 -0300" channel="viva.br">
+  <programme start="20190914143000 -0300" stop="20190914153000 -0300" channel="Viva.br">
     <title lang="pt">Selva de Pedra</title>
     <desc lang="pt">Sinopse Não Disponível.(n)</desc>
     <episode-num system="onscreen">E25</episode-num>
   </programme>
-  <programme start="20190914153000 -0300" stop="20190914161500 -0300" channel="viva.br">
+  <programme start="20190914153000 -0300" stop="20190914161500 -0300" channel="Viva.br">
     <title lang="pt">Porto dos Milagres</title>
     <desc lang="pt">Os pescadores se preparam para a briga com os capangas de Félix.(n)</desc>
     <episode-num system="onscreen">E180</episode-num>
   </programme>
-  <programme start="20190914161500 -0300" stop="20190914165000 -0300" channel="viva.br">
+  <programme start="20190914161500 -0300" stop="20190914165000 -0300" channel="Viva.br">
     <title lang="pt">A Grande Família</title>
     <desc lang="pt">Sinopse Não Disponível.(n)</desc>
     <credits>
@@ -1845,7 +1844,7 @@
     <category lang="pt">Humor</category>
     <episode-num system="onscreen">S9 E1</episode-num>
   </programme>
-  <programme start="20190914165000 -0300" stop="20190914172500 -0300" channel="viva.br">
+  <programme start="20190914165000 -0300" stop="20190914172500 -0300" channel="Viva.br">
     <title lang="pt">A Grande Família</title>
     <desc lang="pt">Sinopse Não Disponível.(n)</desc>
     <credits>
@@ -1858,7 +1857,7 @@
     <icon src="http://tvplus.com.br/images/epg_224/00000000022269_epg.jpg" />
     <episode-num system="onscreen">S9 E2</episode-num>
   </programme>
-  <programme start="20190914172500 -0300" stop="20190914180000 -0300" channel="viva.br">
+  <programme start="20190914172500 -0300" stop="20190914180000 -0300" channel="Viva.br">
     <title lang="pt">A Grande Família</title>
     <desc lang="pt">Sinopse Não Disponível.(n)</desc>
     <credits>
@@ -1871,7 +1870,7 @@
     <icon src="http://tvplus.com.br/images/epg_224/00000000087518000_epg.jpg" />
     <episode-num system="onscreen">S9 E3</episode-num>
   </programme>
-  <programme start="20190914180000 -0300" stop="20190914190000 -0300" channel="viva.br">
+  <programme start="20190914180000 -0300" stop="20190914190000 -0300" channel="Viva.br">
     <title lang="pt">Viver do Riso</title>
     <desc lang="pt">De Guto Barra. Sinopse Não Disponível.(n)</desc>
     <credits>
@@ -1882,7 +1881,7 @@
     <icon src="http://tvplus.com.br/images/epg_224/00000000092557001_epg.jpg" />
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20190914190000 -0300" stop="20190914193000 -0300" channel="viva.br">
+  <programme start="20190914190000 -0300" stop="20190914193000 -0300" channel="Viva.br">
     <title lang="pt">As Vilãs que Amamos</title>
     <desc lang="pt">Renata fala sobre Nazaré, sua repercussão até hoje e a sua inspiração . Relembra seu início na televisão como mocinhas e do prazer e o humor das vilãs.(n)</desc>
     <date>2018</date>
@@ -1890,7 +1889,7 @@
     <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
     <episode-num system="onscreen">S1 E13</episode-num>
   </programme>
-  <programme start="20190914193000 -0300" stop="20190914214000 -0300" channel="viva.br">
+  <programme start="20190914193000 -0300" stop="20190914214000 -0300" channel="Viva.br">
     <title lang="pt">Simbad, o Marujo Trapalhão Simbad, O Marujo Trapalhão</title>
     <desc lang="pt">De J. B. Tanko. Com Renato Aragão, Edson Rabello. O faxineiro de um circo é confundido com o trapezista Simbad e acaba seqüestrado pelos capangas do mágico Ali, que busca uma poderosa pedra filosofal.(n)</desc>
     <credits>
@@ -1902,7 +1901,7 @@
     <category lang="pt">Comédia</category>
     <icon src="http://tvplus.com.br/images/epg_224/00000000022269008_epg.jpg" />
   </programme>
-  <programme start="20190914214000 -0300" stop="20190914222000 -0300" channel="viva.br">
+  <programme start="20190914214000 -0300" stop="20190914222000 -0300" channel="Viva.br">
     <title lang="pt">A Grande Família</title>
     <desc lang="pt">Sinopse Não Disponível.(n)</desc>
     <credits>
@@ -1915,7 +1914,7 @@
     <icon src="http://tvplus.com.br/images/epg_224/00000000022269008_epg.jpg" />
     <episode-num system="onscreen">S8 E37</episode-num>
   </programme>
-  <programme start="20190914222000 -0300" stop="20190914230000 -0300" channel="viva.br">
+  <programme start="20190914222000 -0300" stop="20190914230000 -0300" channel="Viva.br">
     <title lang="pt">A Grande Família</title>
     <desc lang="pt">Sinopse Não Disponível.(n)</desc>
     <credits>
